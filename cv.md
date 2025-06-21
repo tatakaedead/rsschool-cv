@@ -12,4 +12,25 @@
 I am learning the frontend on my own: I practice daily on Codewars/LeetCode, I am learning JS. 
 The goal is to get into a team where I can grow under the guidance of experienced developers.
 
+## Skills
+
+* CSS/SASS
+* Git
+* JavaScript (Basic)
+* HTML
+
+## Code Example 
+```
+console.log("Hello world")
+```
+## Experience
+
+## Education
+
++ [FreeCodeCamp](https://www.freecodecamp.org/) 
++ [HTML Academy](https://htmlacademy.ru/)
++ [rs.school](https://rs.school/)
+
+## English
+A2
 
