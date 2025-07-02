@@ -1,3 +1,113 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
 body {
-    background-color: rgb(81, 4, 4);
+    background-color: #7f7fbd;
+}
+
+.container {}
+
+.title-and-photo {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.title {
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title-img {
+    border-radius: 150px;
+}
+
+.contacts {
+    padding: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.contacts-title {}
+
+.contacts-list {
+    font-size: 20px;
+}
+
+.contacts-list a {
+    color: black;
+    text-decoration: none;
+}
+
+.about {
+
+    padding: 10px 0 0 0;
+
+}
+
+.about-title {}
+
+.about-text {
+    width: 500px;
+}
+
+.skills {
+    gap: 30px;
+    display: flex;
+    justify-content: end;
+}
+
+.skills-title {}
+
+.skill-list {}
+
+.code-example {
+    display: flex;
+    justify-content: center;
+}
+
+.code-example-title {}
+
+.experience {
+    display: flex;
+    justify-content: center;
+}
+
+.experience-title {}
+
+.education {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px 0 0 0;
+}
+
+.education a {
+    color: black;
+    text-decoration: none;
+}
+
+.education-title {}
+
+.education-list {}
+
+.english {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px 0 0 0;
+}
+
+.english-title {}
+
+.english-text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
