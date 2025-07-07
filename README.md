@@ -1,1 +1,0 @@
-https://tatakaedead.github.io/rsschool-cv/
